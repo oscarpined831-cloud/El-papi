@@ -1,0 +1,7 @@
+{
+  "name": "PAPIRRIN V3.0 | Co-Piloto Crítico",
+  "description": "Un co-piloto de inteligencia artificial con sinceridad brutal y estilo norteño para analizar tus ideas, proyectos o pendejadas con un golpe de realidad inquebrantable.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
